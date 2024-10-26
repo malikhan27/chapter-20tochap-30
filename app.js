@@ -199,15 +199,18 @@
 
 //Question no. 18
 
-var sentence="The quick brown fox jumps over the lazy dog"
-var sentence=sentence.toLowerCase()
-var brokenSen=sentence.split(" ")
-var count= 0
+// var sentence="The quick brown fox jumps over the lazy dog"
+// var sentence=sentence.toLowerCase()
+// var brokenSen=sentence.split(" ")
+// var count= 0
 
-for(i=0;i<brokenSen.length;i++){
-    if(brokenSen[i]==="the"){count++}
-}
+// for(i=0;i<brokenSen.length;i++){
+//     if(brokenSen[i]==="the"){count++}
+// }
 
-document.write(`<h2>Question no. 18 </h2>
-    ${sentence} <br />
-    the word the has ${count} occurences in the above sentence`)
+// document.write(`<h2>Question no. 18 </h2>
+//     ${sentence} <br />
+//     the word the has ${count} occurences in the above sentence`)
+
+
+document.write(`<h3><a href="chapter26-30.html"> Click here to go to Chapter no. 26-30 assignment</a></h3>`)
