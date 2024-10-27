@@ -80,9 +80,9 @@
     
 //question 8
 
-var hiddenvalue=9
-var userinput=+prompt("GUESS A NUMBER BETWEEN 1 to 10")
+// var hiddenvalue=9
+// var userinput=+prompt("GUESS A NUMBER BETWEEN 1 to 10")
 
-if(userinput===hiddenvalue){
-    alert("Bingo! Correct")
-}else{alert("please try again")}
+// if(userinput===hiddenvalue){
+//     alert("Bingo! Correct")
+// }else{alert("please try again")}
